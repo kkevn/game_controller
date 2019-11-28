@@ -8,6 +8,8 @@ The idea was to make a simple controller that interacts with custom software tha
 
 ![Assembled Controller](demo/model_assembled.jpg)
 
+View a demo on [YouTube](https://youtu.be/wuAFQtvIJfk).
+
 ---
 
 ## Run Instructions
