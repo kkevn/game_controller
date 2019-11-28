@@ -4,7 +4,7 @@ The project utilizes an Arduino Uno for the hardware part of the game system whi
 
 The idea was to make a simple controller that interacts with custom software that acts as a mini arcade.
 
-*Note: The included gravity platformer game was found on [OpenProcessing(https://www.openprocessing.org/sketch/554613).*
+*Note: The included gravity platformer game was found on [OpenProcessing](https://www.openprocessing.org/sketch/554613).*
 
 ![Assembled Controller](demo/model_assembled.jpg)
 
